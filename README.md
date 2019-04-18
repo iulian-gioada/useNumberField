@@ -10,7 +10,7 @@ If you already have a ref for your input, pass that ref to the hook, and it will
 This hook doesn't validate the input! It's your job to ensure the validity of the value in the input. This hook is just limiting the charachters for the input.
 
 # Improvements
-[] The regex `[-+,e\\.\\s\\d]+` that does the charachter filtering can be more precise.
+- [ ] Increase the precision of the regex `[-+,e\\.\\s\\d]+` that does the charachter filtering.
 
 # Contributing
 Pull Requests are more than welcome!
